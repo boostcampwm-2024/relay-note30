@@ -133,5 +133,6 @@
 
 ### 퀘스트 수행 인원
 사다리타기로 결정했습니다.
+
 <img width="534" alt="image" src="https://github.com/user-attachments/assets/187f91e6-ebdd-4f07-bcfd-fdf00b51e20d">
 - 멤버 번호- 미션 번호
