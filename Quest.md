@@ -166,12 +166,17 @@
 ##  👉🏻 퀘스트 수행 인원
 사다리타기로 결정했습니다.
 
+#### 1주차 퀘스트 미션 - 수행 멤버
+
 <img width="154" alt="스크린샷 2024-07-19 163023" src="https://github.com/user-attachments/assets/5fb33e92-74a4-4dc3-afe9-e428d1228ddf">
 
-<img width="170" alt="스크린샷 2024-07-26 오후 5 32 15" src="https://github.com/user-attachments/assets/3b8f3c12-e0d6-49f0-96ae-bcf6286cdc57">
+- 멤버 번호 - 미션 번호
 
-- 멤버 번호- 미션 번호
+#### 2주차 퀘스트 미션 - 수행 멤버
 
+<img width="170" alt="스크린샷 2024-07-26 오후 5 32 15" src="https://github.com/user-attachments/assets/3b8f3c12-e0d6-49f0-96ae-bcf6286cdc57">  
+
+- 멤버 이름 - 미션 번호
 
 ### 2주차 릴레이 프로젝트
 
