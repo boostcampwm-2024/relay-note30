@@ -168,6 +168,8 @@
 
 <img width="154" alt="스크린샷 2024-07-19 163023" src="https://github.com/user-attachments/assets/5fb33e92-74a4-4dc3-afe9-e428d1228ddf">
 
+<img width="170" alt="스크린샷 2024-07-26 오후 5 32 15" src="https://github.com/user-attachments/assets/3b8f3c12-e0d6-49f0-96ae-bcf6286cdc57">
+
 - 멤버 번호- 미션 번호
 
 
